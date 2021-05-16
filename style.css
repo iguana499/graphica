@@ -1,0 +1,59 @@
+
+.text1 {
+    position: absolute;
+    width: 450px;
+    height: 280px;
+    left: 52px;
+    top: 270px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1000px;
+    line-height: 140%;
+    /* or 90px */
+
+
+    /* white */
+
+    color: #FFFFFF
+}
+.text2{
+    position: absolute;
+    width: 803px;
+    height: 888px;
+    left: 22px;
+    top: 1287px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 53px;
+    line-height: 140%;
+    /* or 74px */
+
+    text-align: center;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+.image2{
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+h2 {
+    position	: absolute;
+	top		: 200px;
+	left		: 200;
+	width		: 40%;
+
+    color: #FFFFFF;
+}
+.p-img {
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    color: #FFFFFF;
+}
